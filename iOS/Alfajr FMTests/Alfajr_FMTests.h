@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 Alfajr FM. All rights reserved.
 //
 
-#import <SenTestingKit/SenTestingKit.h>
+#import <XCTest/XCTest.h>
 
-@interface Alfajr_FMTests : SenTestCase
+@interface Alfajr_FMTests : XCTestCase
 
 @end

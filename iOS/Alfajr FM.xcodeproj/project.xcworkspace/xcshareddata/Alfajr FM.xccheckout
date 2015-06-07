@@ -10,29 +10,29 @@
 	<string>Alfajr FM</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>52FFF6EA-9FB8-44C3-B004-32A3F5E5087F</key>
-		<string>https://github.com/voipworld/alfajrfm.git</string>
+		<key>FB5E997D48A666FE2AB7F1947FBAA62F80F993F4</key>
+		<string>https://github.com/simenovrebo/alfajrfm.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iOS/Alfajr FM.xcodeproj/project.xcworkspace</string>
+	<string>iOS/Alfajr FM.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>52FFF6EA-9FB8-44C3-B004-32A3F5E5087F</key>
+		<key>FB5E997D48A666FE2AB7F1947FBAA62F80F993F4</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/voipworld/alfajrfm.git</string>
+	<string>https://github.com/simenovrebo/alfajrfm.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>52FFF6EA-9FB8-44C3-B004-32A3F5E5087F</string>
+	<string>FB5E997D48A666FE2AB7F1947FBAA62F80F993F4</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>52FFF6EA-9FB8-44C3-B004-32A3F5E5087F</string>
+			<string>FB5E997D48A666FE2AB7F1947FBAA62F80F993F4</string>
 			<key>IDESourceControlWCCName</key>
 			<string>alfajrfm</string>
 		</dict>
