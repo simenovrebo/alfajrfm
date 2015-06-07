@@ -1,0 +1,60 @@
+/*
+  Localizable.strings
+  Alfajr FM
+
+  Created by John Doe on 3/19/13.
+  Copyright (c) 2013 Alfajr FM. All rights reserved.
+*/
+
+
+//navigation
+
+"HomeVCTitle" = "الصفحة الرئيسية";
+"NewsVCTitle" = "أخبار";
+"ProgramVCTitle" = "البرامج";
+"SocialVCTitle" = "التواصل الإجتماعى";
+
+    "TwitterVCTitle" = "تويتر";
+    "FacebookVCTitle" = "الفيسبوك";
+"SettingsVCTitle" = "إعدادات";
+"MoreVCTitle" = "للمزيد";
+
+//home VC
+
+"alaqsa" = "الأقصى، ونحن مستمدة!";
+
+"Play" = "تشغيل";
+"Pause" = "إيقاف مؤقت";
+"Stop" = "إيقاف";
+"Share" = "دعوة صديق";
+
+
+//settings VC
+
+"use3gLabel" = "Use 3G";
+"streamingQualityLabel" = "جودة البث";
+"alwaysUseLowQualityLabel" = "استخدم دائما جودة منخفضة على الجيل الثالث 3G عند";
+"settings" = "إعدادات";
+
+"low" = "الجودة المنخفضة";
+"high" = "الجودة العالية";
+
+"on" = "تشغيل";
+"off" = "إيقاف";
+
+
+//about VC
+
+
+"aboutInformationLabel" = " - radio.alresalah@hotmail.com راديو الرسالة عبر الإنترنت  - فلسطين - غزة 0097082874044";
+"about" = "حول التطبيق";
+
+//social 
+"connect_on_facebook" = "تابعنا  بالفيسبوك";
+"follow_on_twitter" = "تابعنا بتويتر";
+
+//generic
+
+"back" = "العودة";
+"loading" = "تحميل";
+"stopped" = "متوقف";  
